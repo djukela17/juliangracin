@@ -23,7 +23,7 @@ Github: https://github.com/juliangracin
 
  - PHP
  - Phalcon framework
- - go lang
+ - Go
  - Javascript
  - Docker
  - MySQL
