@@ -39,7 +39,7 @@ Github: https://github.com/juliangracin
 ### Rentlio
 
 - **Back-end engineer** *(Sep 2019 - now)*
-    - Developed most ouf API for version 2 of rentlio mobile app (PHP, Phalcon)
+    - Developed most of APIs for version 2 of rentlio mobile app (PHP, Phalcon)
     - Contributed to Rentlio public API by implementing new features (go lang)
     - Implemented some new features and bugfixes for other services running in the background (go lang)
 
