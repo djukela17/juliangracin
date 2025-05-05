@@ -37,7 +37,10 @@ Github: https://github.com/juliangracin
 
 ### Minus5
 - **Back-end developer** *(Mar 2021 - now)*
-    - Maintaining and enhancing community product related microservices
+    - Working of a part of the betting system which promotes player interactoin with each other, which includes:
+        - Maintaining existing microservices
+        - Creating new microservices, based on the feature needs
+        - Interacting with the other parts of the betting system, such as slips and offer
 
 
 ### Rentlio
