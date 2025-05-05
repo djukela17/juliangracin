@@ -1,6 +1,6 @@
 ## Summary
 
-Backend developer currently working on building APIs using PHP with Phalcon framework.
+Backend developer currently building microservices for sports betting company using go.
 
 
 ***
