@@ -21,14 +21,13 @@ Github: https://github.com/juliangracin
 
 ## Skills
 
- - PHP
- - Phalcon framework
  - Go
- - Javascript
+ - MongoDB
+ - NSQ
+ - Microservices
  - Docker
  - MySQL
- - MongoDB
- - Redis
+
 
 ***
 
@@ -36,9 +35,14 @@ Github: https://github.com/juliangracin
 ## Work Experience
 
 
+### Minus5
+- **Back-end developer** *(Mar 2021 - now)*
+    - Maintaining and enhancing community product related microservices
+
+
 ### Rentlio
 
-- **Back-end engineer** *(Sep 2019 - now)*
+- **Back-end developer** *(Sep 2019 - Mar 2021)*
     - Developed most of APIs for version 2 of rentlio mobile app (PHP, Phalcon)
     - Contributed to Rentlio public API by implementing new features (go lang)
     - Implemented some new features and bugfixes for other services running in the background (go lang)
@@ -46,7 +50,7 @@ Github: https://github.com/juliangracin
 
 ### Evolutio IT
 
-- **Junior Back-end Developer** *(Apr, 2018 - Sep 2019)*
+- **Junior Back-end develoter** *(Apr, 2018 - Sep 2019)*
     - Worked on Trading Tool 2 - a betting tool used by bookies.
     - Developed communication layer of CoinStudio Lite app (PHP, websockets using Ratchet library, Redis)
     - Continued pushing some feature updates for our Joomla! plugin
